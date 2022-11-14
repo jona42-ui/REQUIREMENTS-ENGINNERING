@@ -1,3 +1,6 @@
+feature: add admin structure
+
+
 Scenario: Adding admin structure
     When a user clicks the add admin link
     Then the system loads the create new admin page
